@@ -19,7 +19,7 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.10.0",
     "@octokit/rest": "^18.12.0",
     "ajv": "^8.8.2",
     "ajv-formats": "^2.1.1",
